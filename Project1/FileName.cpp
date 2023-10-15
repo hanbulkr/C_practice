@@ -27,4 +27,6 @@ int main()
 	cout << "max = " << max << endl;
 	cout << "min = " << min << endl;
 	cout << "max-min = " << max - min << endl;
+	cout << "Test Test" << endl;
+
 }
